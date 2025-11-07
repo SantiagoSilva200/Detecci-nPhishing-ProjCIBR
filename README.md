@@ -2,7 +2,7 @@
 
 git clone https://github.com/SantiagoSilva200/Detecci-nPhishing-ProjCIBR
 
-cd phishing-detection-llm
+cd Detecci-nPhishing-ProjCIBR
 
 pip install -r requirements.txt
 
